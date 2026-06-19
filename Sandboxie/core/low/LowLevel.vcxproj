@@ -82,6 +82,7 @@
       <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
       <NoEntryPoint>true</NoEntryPoint>
       <AdditionalDependencies>
+        libcmt.lib;%(AdditionalDependencies)
       </AdditionalDependencies>
       <FunctionOrder>
       </FunctionOrder>
@@ -100,6 +101,7 @@
       <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
       <NoEntryPoint>true</NoEntryPoint>
       <AdditionalDependencies>
+        libcmt.lib;%(AdditionalDependencies)
       </AdditionalDependencies>
       <FixedBaseAddress>true</FixedBaseAddress>
       <FunctionOrder>
@@ -119,6 +121,7 @@
       <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
       <NoEntryPoint>true</NoEntryPoint>
       <AdditionalDependencies>
+        libcmt.lib;%(AdditionalDependencies)
       </AdditionalDependencies>
       <FixedBaseAddress>
       </FixedBaseAddress>
